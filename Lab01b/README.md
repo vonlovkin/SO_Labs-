@@ -7,21 +7,21 @@ Repositório para a anexação de atividades de laboratório da disciplina de Si
 -Lucas Araujo Martins da Silva
 
 ### Seguem os arquivos pedidos no laboratório 01b de Sistemas Operacionais.
--Exercicio1.c
--Exercicio2.c
--Exercicio3.c
--Exercicio4.c
--Exercicio5.c
--Exercicio6.c
--Exercicio7.c
--Exercicio8.c
--Exercicio9.c
--Exercicio10.c
--Exercicio11.c
--Exercicio12.c
--Exercicio13.c
--Exercicio14.c
--README.md
+- Exercicio1.c
+- Exercicio2.c
+- Exercicio3.c
+- Exercicio4.c
+- Exercicio5.c
+- Exercicio6.c
+- Exercicio7.c
+- Exercicio8.c
+- Exercicio9.c
+- Exercicio10.c
+- Exercicio11.c
+- Exercicio12.c
+- Exercicio13.c
+- Exercicio14.c
+- README.md
 
 ### Instruções para compilação de programas:
 Para compilar o arquivos com extensão .c deste diretório, basta acessar o diretório que contém o arquivo utilizando o comando "cd" do CMD do Windows e digitar o seguinte código: "gcc <nome_do_arquivo.c> -o <nome_do_executável>", caso o seu compilador seja o GCC.
