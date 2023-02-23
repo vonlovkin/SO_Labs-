@@ -2,9 +2,9 @@
 Repositório para a anexação de atividades de laboratório da disciplina de Sistemas Operacionais (4º semestre).
 
 ### Integrantes do grupo:
--Daniel Kabadayan Dias
--Luana Miho Yasuda
--Lucas Araujo Martins da Silva
+- Daniel Kabadayan Dias
+- Luana Miho Yasuda
+- Lucas Araujo Martins da Silva
 
 ### Seguem os arquivos pedidos no laboratório 01b de Sistemas Operacionais.
 - Exercicio1.c
