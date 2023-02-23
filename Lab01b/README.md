@@ -23,6 +23,14 @@ Repositório para a anexação de atividades de laboratório da disciplina de Si
 - Exercicio14.c
 - README.md
 
+#### Seguem as bibliotecas utilizadas e os respectivos exercícios em que aparecem.
+- Exercicio4.c (<string.h>)
+- Exercicio7.c (<string.h>)
+- Exercicio9.c (<stdlib.h>)
+- Exercicio12.c (<string.h>)
+- Exercicio13.c (<string.h>)
+- Exercicio14.c (<string.h>)
+
 ### Instruções para compilação de programas:
 Para compilar o arquivos com extensão .c deste diretório, basta acessar o diretório que contém o arquivo utilizando o comando "cd" do CMD do Windows e digitar o seguinte código: "gcc <nome_do_arquivo.c> -o <nome_do_executável>", caso o seu compilador seja o GCC.
 
