@@ -1,7 +1,7 @@
-# SO_Labs
+# SO_Labs-
+Repositório para a anexação de atividades de laboratório da disciplina de Sistemas Operacionais (4º semestre) do Grupo5.
 
-16/02/2023
-Vistos os conceitos iniciais de GIT, commitamos o nosso primeiro código nesse Lab01: um hello world em linguagem C.
-_________________________________________________________________________________________________________________________________________________________________________
-
-23/02/2023
+### Integrantes do Grupo5:
+- Daniel Kabadayan Dias
+- Luana Miho Yasuda
+- Lucas Araujo Martins da Silva
